@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [test](./test.md)
 
-![Progress](http://progressed.io/bar/28?title=数学)   
+![Progress](http://progressed.io/bar/114514?title=数学)   
 
 
 http://progressed.io/bar/28?title=progress
