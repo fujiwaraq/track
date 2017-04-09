@@ -11,45 +11,36 @@
 
 像cwk一样抓紧每一分钟是必要的。
 
-
-![Progress](http://progressed.io/bar/19?title=数学)   
-
-![Progress](http://progressed.io/bar/28?title=progress)   
-
 ## 迫近的考试以及对策
 
 ###q方面
 
 4.12 物理小测
 
-复习资料 物理力学教材前七章 页
+复习资料 物理力学教材前七章 页 已宣称 已核准
 
 未知时间 电路测试
 
-复习资料 电学教材
+复习资料 电学教材 页 已宣称 已核准
 
 ###z方面
 
 4.19 普通生物学
 
-复习资料 未知
+复习资料 未知 页 已宣称 已核准
 
 4.2？线性代数
 
-复习资料 线代教材
+复习资料 线代教材 页 已宣称 已核准
 
-线代辅导书
+线代辅导书 页 已宣称 已核准
 
 ###共同方面
 
 本周 数学分析小测3
 
-复习资料 数分教材大约到积分学完毕
+复习资料 数分教材大约到积分学完毕 页 已宣称 已核准
 
 
-![Progress](http://progressed.io/bar/19?title=数学)   
 
-
-http://progressed.io/bar/28?title=progress
-![Progress](http://progressed.io/bar/28?title=progress)   
 
