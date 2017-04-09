@@ -1,12 +1,16 @@
+ 
 
+## 目前的进度状况
 
-## Welcome to GitHub Pages
+刚刚开始建设的页面，因为我的时间短缺，所以先聚焦于眼前的进度追踪，进度追踪的考量依据于页数，每天互相track，未经核准登入宣称进度，完全书面化并经对方核准
+可以登入已确认进度。
 
-You can use the [editor on GitHub](https://github.com/fujiwaraq/track/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+页面会慢慢建设起来的。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+期中考试月，可以说成败在此一举，前进！
 
-[test](./test.md)
+像cwk一样抓紧每一分钟是必要的。
+
 
 ![Progress](http://progressed.io/bar/19?title=数学)   
 
@@ -14,34 +18,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 http://progressed.io/bar/28?title=progress
 ![Progress](http://progressed.io/bar/28?title=progress)   
 
-### Markdown
+## 迫近的考试以及对策
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###q方面
 
-```markdown
-Syntax highlighted code block
+4.12 物理小测
 
-# Header 1
-## Header 2
-### Header 3
+未知时间 电路测试
 
-- Bulleted
-- List
+###z方面
 
-1. Numbered
-2. List
+4.19 普通生物学
 
-**Bold** and _Italic_ and `Code` text
+4.2？线性代数
 
-[Link](url) and ![Image](src)
-```
+###共同方面
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+本周 数学分析小测3
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fujiwaraq/track/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Progress](http://progressed.io/bar/19?title=数学)   
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+http://progressed.io/bar/28?title=progress
+![Progress](http://progressed.io/bar/28?title=progress)   
+
